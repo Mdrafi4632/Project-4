@@ -42,8 +42,7 @@ Here's a walkthrough of implemented user stories:
 https://imgur.com/a/u1LxwWq
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+One of the main challenges while building this app was handling inconsistent or incomplete API responses. Sometimes the fetched cat data lacked important attributes like breed information, which required implementing logic to skip invalid results and retry until a valid one was found. Another challenge was managing the dynamic ban list feature — making sure the app could correctly filter out cats based on multiple user-selected criteria like breed, origin, and temperament while still ensuring the experience remained smooth and responsive. Additionally, keeping the UI clean and intuitive while allowing for multiple interactive elements like banning and unbanning attributes required careful state management and thoughtful layout design.
 
 ## License
 
