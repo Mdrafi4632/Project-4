@@ -2,7 +2,7 @@
 
 Submitted by: **Md Rafi**
 
-This web app: **This project displays random cats using The Cat API. Each cat comes with details like breed, origin, and temperament. Users can click on any of these traits to add them to a personalized ban list, which filters out similar cats from appearing in future results. The app demonstrates dynamic API integration, conditional rendering, and user-controlled content filtering.**
+This web app: This project displays random cats using The Cat API. Each cat comes with details like breed, origin, and temperament. Users can click on any of these traits to add them to a personalized ban list, which filters out similar cats from appearing in future results. The app demonstrates dynamic API integration, conditional rendering, and user-controlled content filtering.
 
 Time spent: **5** hours spent in total
 
